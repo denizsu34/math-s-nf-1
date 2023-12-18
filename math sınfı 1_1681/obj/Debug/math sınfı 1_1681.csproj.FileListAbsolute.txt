@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\math sınfı 1_1681\math sınfı 1_1681\bin\Debug\math sınfı 1_1681.exe.config
+C:\Users\User\source\repos\math sınfı 1_1681\math sınfı 1_1681\bin\Debug\math sınfı 1_1681.exe
+C:\Users\User\source\repos\math sınfı 1_1681\math sınfı 1_1681\bin\Debug\math sınfı 1_1681.pdb
+C:\Users\User\source\repos\math sınfı 1_1681\math sınfı 1_1681\obj\Debug\math sınfı 1_1681.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\math sınfı 1_1681\math sınfı 1_1681\obj\Debug\math sınfı 1_1681.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\math sınfı 1_1681\math sınfı 1_1681\obj\Debug\math_sınfı_1_1681.Form1.resources
+C:\Users\User\source\repos\math sınfı 1_1681\math sınfı 1_1681\obj\Debug\math_sınfı_1_1681.Properties.Resources.resources
+C:\Users\User\source\repos\math sınfı 1_1681\math sınfı 1_1681\obj\Debug\math sınfı 1_1681.csproj.GenerateResource.cache
+C:\Users\User\source\repos\math sınfı 1_1681\math sınfı 1_1681\obj\Debug\math sınfı 1_1681.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\math sınfı 1_1681\math sınfı 1_1681\obj\Debug\math sınfı 1_1681.exe
+C:\Users\User\source\repos\math sınfı 1_1681\math sınfı 1_1681\obj\Debug\math sınfı 1_1681.pdb
